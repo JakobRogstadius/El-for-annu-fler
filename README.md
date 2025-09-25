@@ -25,4 +25,4 @@ The data included in the map, which is delivered separately and for more years t
 
 The project has also not been able to demonstrate statistically that the expansion of infrastructure for public home charging is a prerequisite for or leads to increased electric vehicle adoption among the designated target group. Therefore, the map cannot be considered to present a recommendation for expansion, only a demand forecast if demand is met through this infrastructure solution.
 
-See [mehtods.md](methods.md) for documentation of how the data presented in the map were calculated.
+See [methods.md](docs/methods.md) for documentation of how the data presented in the map were calculated.
