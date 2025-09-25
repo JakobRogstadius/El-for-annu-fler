@@ -81,7 +81,7 @@ age-standardized local share of rechargeable cars, and an assumed national devel
 the share of rechargeable cars in new sales, according to the figure below. For years before 
 2024, historical values were used.
 
-<img src="ev-sales-assumptions.png" />
+<img src="ev-sales-assumptions.png" width=400 />
 
 A ten-year-old car today is assumed with this method in 2040, before local adjustment, to be 
 fully electric with an 83% probability (the share in new sales ten years earlier).
@@ -113,7 +113,7 @@ vary between zero and nine degrees in Sweden. The multiple is used to convert an
 to annual energy consumption. The multiple does not affect the vehicles' assumed battery 
 capacity, only their battery range and thus how often charging is required.
 
-<img src="energy-consumption-by-temp.png" />
+<img src="energy-consumption-by-temp.png" width=250 />
 
 ## Forecast for future battery capacity per vehicle
 
@@ -136,7 +136,7 @@ deviations in battery capacity are taken into account in the forecasts.
 The battery capacity for plug-in hybrids has been assumed to be 30% of the capacity of
 all-electric passenger cars of the same model year.
 
-<img src="battery-assumptions.png" />
+<img src="battery-assumptions.png" width=750 />
 
 ## Charging behavior assumptions
 
@@ -176,3 +176,10 @@ For each square, the proportion of total mileage that is on a potential electric
 network was calculated. The designated electric road network has been approximated as 
 roads that in SySMo have Capacity > 2000.
 
+## Sources
+
+- Swedish car, household, taxation and employment registries (not public)
+- Swedish administrative boundaries (DeSO and municipalities)
+- Simulated travel pattern data from [SySMo](https://research.chalmers.se/en/publication/531094)
+- Historical mean temperatures from SMHI
+- The [Nobil](https://info.nobil.no/) charging infrastructure database
