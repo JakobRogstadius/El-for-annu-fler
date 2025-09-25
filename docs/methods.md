@@ -176,3 +176,10 @@ For each square, the proportion of total mileage that is on a potential electric
 network was calculated. The designated electric road network has been approximated as 
 roads that in SySMo have Capacity > 2000.
 
+## Sources
+
+- Swedish car, household, taxation and employment registries (not public)
+- Swedish administrative boundaries (DeSO and municipalities)
+- Simulated travel pattern data from [SySMo](https://research.chalmers.se/en/publication/531094)
+- Historical mean temperatures from SMHI
+- The [Nobil](https://info.nobil.no/) charging infrastructure database
