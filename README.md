@@ -1,9 +1,9 @@
 # El för ännu fler
-This repository contains source code and data from the research project El för ännu fler (https://www.ri.se/sv/expertisomraden/projekt/el-for-annu-fler).
+This repository contains source code and data from the research project [El för ännu fler](https://www.ri.se/sv/expertisomraden/projekt/el-for-annu-fler).
 
 ## Interactive web map of public home charging demand
 
-The project has developed an interactive web map (https://qgiscloud.com/elforannufler/prognos_efterfr_gan_publik_laddning_web/) to create a better understanding of today's demand for public home charging, as well as how this demand is expected to develop in the future.
+The project has developed an [interactive web map](https://qgiscloud.com/elforannufler/prognos_efterfr_gan_publik_laddning_web/) to create a better understanding of today's demand for public home charging, as well as how this demand is expected to develop in the future.
 
 The map presents for each DeSO the estimated number of charging sessions per annual average day from rechargeable passenger cars with public parking, for the years 2025 (white circles) and 2035 (orange circles). The forecasts assume that all affected cars resident in the area are charged there and do not take into account additional incoming traffic.
 
