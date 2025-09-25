@@ -5,11 +5,11 @@ This repository contains source code and data from the research project [El för
 
 The project has developed an [interactive web map](https://qgiscloud.com/elforannufler/prognos_efterfr_gan_publik_laddning_web/) to create a better understanding of today's demand for public home charging, as well as how this demand is expected to develop in the future.
 
-The map presents for each DeSO the estimated number of charging sessions per annual average day from rechargeable passenger cars with public parking, for the years 2025 (white circles) and 2035 (orange circles). The forecasts assume that all affected cars resident in the area are charged there and do not take into account additional incoming traffic.
+Tor each Swedish [DeSO](https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/deso---demografiska-statistikomraden/) the map presents the estimated number of charging sessions per day (annual average) from rechargeable passenger cars (BEVs and PHEVs) with public parking, for the years 2025 (white circles) and 2035 (orange circles). Numbers inside the circles indicate "2025 --> 2035" forecasts. The forecasts assume that all affected cars belonging to households in the area are charged there and do not take into account additional incoming traffic.
 
 <img src="web-map/screenshots/charging-demand.png" width=500 />
 
-If a circle is selected, additional information is presented about the number of estimated vehicles in different years in total, in multi-family buildings ("mud") and with public parking ("pp"), and by powertrain ("bev", "phev").
+If a circle is selected, additional information is presented about the daily energy demand, the number of plug-in vehicles by powertrain (total, BEV, PHEV), and separated by housing (multi-unit dwellings, "mud") and parking situation (public parking, "pp").
 
 <img src="web-map/screenshots/charging-demand-details.png" height=500 />
 
